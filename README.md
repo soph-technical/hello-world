@@ -1,6 +1,6 @@
 # hello-world
 
-*My **first ever** GitHub experience!_
+_My **first ever** GitHub experience!_
 
 Thanks for this awared. I'm so excited to be here. I'd like to thank:
 * my mum and dad
